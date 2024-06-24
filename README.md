@@ -4,7 +4,7 @@
 Output from the 6 hour Business Intelligence with POWER BI (Power Query and M Code) Training by DataSense Analytics
 
 ## Situation
-Congratulations on your recent appointment as a Data Analyst at DSA Marketing Ltd. *,  one of the leading marketing and various products distributor globally, to design and deliver an end-to-end Business Intelligence Solutions for Executive Team - from scratch!
+Congratulations on your recent appointment as a Data Analyst at DSA Marketing Ltd.,  one of the leading marketing and various products distributor globally, to design and deliver an end-to-end Business Intelligence Solutions for Executive Team - from scratch!
 
 ## Task/Problem
 Your manager wants to see a report on the latest sales figures. They've requested an executive summary of:
